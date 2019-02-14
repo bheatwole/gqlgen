@@ -21,7 +21,7 @@ import (
 	"context"
 	
 	"github.com/vektah/gqlparser/gqlerror"
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/bheatwole/gqlgen/graphql"
 )
 
 func (r Query) DoThings(ctx context.Context) (bool, error) {

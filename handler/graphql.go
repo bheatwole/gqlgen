@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/99designs/gqlgen/complexity"
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/bheatwole/gqlgen/complexity"
+	"github.com/bheatwole/gqlgen/graphql"
 	"github.com/gorilla/websocket"
 	"github.com/hashicorp/golang-lru"
 	"github.com/vektah/gqlparser/ast"

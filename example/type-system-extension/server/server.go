@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/99designs/gqlgen/example/type-system-extension"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/bheatwole/gqlgen/example/type-system-extension"
+	"github.com/bheatwole/gqlgen/handler"
 )
 
 const defaultPort = "8080"

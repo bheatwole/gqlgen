@@ -17,8 +17,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/99designs/gqlgen/example/starwars"
-	"github.com/99designs/gqlgen/handler"
+	"github.com/bheatwole/gqlgen/example/starwars"
+	"github.com/bheatwole/gqlgen/handler"
 	"github.com/go-chi/chi"
 	"github.com/rs/cors"
 )

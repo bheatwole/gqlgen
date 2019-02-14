@@ -1,4 +1,4 @@
-//go:generate gorunpkg github.com/99designs/gqlgen
+//go:generate gorunpkg github.com/bheatwole/gqlgen
 
 package selection
 
@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/99designs/gqlgen/graphql"
+	"github.com/bheatwole/gqlgen/graphql"
 	"github.com/vektah/gqlparser/ast"
 )
 
